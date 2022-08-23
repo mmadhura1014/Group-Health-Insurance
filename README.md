@@ -1,0 +1,5 @@
+# Group-Health-Insurance
+Using   public mode of  inheritance  create two derived    classes as FULLTIME employees and PARTTIME employees. Each derived class should contain data members as join date    insurance premium and salary.  Write virtual function display in base class . Also include default constructor to count number of objects created.  In each derived class define functions to get employee details as get data () ,parameterized constructor to initialize salary , function to return age and function to calculate net salary of every  employee and friend function for operator overloading.  Using array of objects create 5 objects for every derived class. And also calculate average age of  full time and part time employees. . Calculate insurance premium that employees get.  Also use static data member to count number of objects created .Use vector array to store age of employees and check employee type by using RTTI
+
+This is a c++ program to provide health insurance for the required employee among the group of 5.
+This program demonstates the most of the concepts in OOPS.
